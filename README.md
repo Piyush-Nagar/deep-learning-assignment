@@ -27,7 +27,3 @@ The dataset consists of 2357 images of malignant and benign oncological diseases
 - matplotlib
 - tensorflow
 - glob
-
-
-## Contact
-Created by [@Rameshkatiyar] - feel free to contact me!
